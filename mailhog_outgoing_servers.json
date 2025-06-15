@@ -1,0 +1,11 @@
+{
+    "<name>": {
+        "name": "<name>",
+        "host": "",
+        "port": "",
+        "email": "",
+        "username": "",
+        "password": "",
+        "mechanism": "PLAIN"
+    }
+}
